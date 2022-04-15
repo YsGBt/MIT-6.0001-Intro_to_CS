@@ -3,7 +3,7 @@
 """
 Created on Mon Jan 10 22:09:24 2022
 
-@author: qishenpang
+@author: YsGBt
 """
 
 annual_salary = int(input("Enter your annual salary: "))
